@@ -1,0 +1,10 @@
+id,first_name,last_name,date_of_birth,ethnicity,gender,email,entry_age
+1,John,Doe,Jan-00,Hispanic,M,jdoe@example.com,17.9
+2,Jane,Smith,May-01,Hispanic,F,jsmith@example.com,18.1
+3,Sarah,Thomas,21/2002,Hispanic,M,sthomas@example.com,17.6
+4,Frank,Brown,13/2002,Race/ethnicity unknown,M,fbrown@example.com,19
+5,Mike,Davis,31/2001,White,F,mdavis@example.com,18.2
+6,Jennifer,Wilson,Jan-02,Asian,M,jwilson@example.com,18.5
+7,Jessica,Garcia,Jan-00,White,F,jgarcia@example.com,18.8
+8,Fred,Clark,17/1999,Hispanic,F,fclark@example.com,19.2
+9,Bob,Lopez,Apr-98,White,F,blopez@example.com,18.5
